@@ -1,0 +1,6 @@
+{
+  "name": "NusantaraMart UMKM - E-Commerce Lokal & Midtrans Snap",
+  "description": "Platform e-commerce UMKM lokal Indonesia dengan belanja instan, checkout mirip Shopee, dan integrasi payment gateway Midtrans Snap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
